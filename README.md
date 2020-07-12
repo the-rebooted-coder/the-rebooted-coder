@@ -16,8 +16,13 @@
   <img src="https://i.ibb.co/pzsxF3X/Red-and-White-Modern-Corporate-Sports-Youtube-Outro.png" title="Spandan Saxena Banner">
 </p>
 </html>
-###### [LinkedIn](https://www.linkedin.com/in/spandn)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/spandn">LinkedIn</a>
+  <a href="https://github.com/the-rebooted-coder">GitHub</a>
+   <a href="https://www.instagram.com/the_rebooted_coder">Instagram</a>
+       <a href="https://www.spandansaxena.codes">Portfolio</a>
+  </p>
 <!--
 **the-rebooted-coder/the-rebooted-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
