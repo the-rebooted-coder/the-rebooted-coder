@@ -10,8 +10,8 @@
   <img src="https://i.ibb.co/vLh9nx7/more-spandansaxena.png" title="Spandan Saxena moreInfo">
 </p>
 <br><br><br>
-
 <h2 style="text-align:center">Some Quck Details Coming Stright Up!</h2><br>
+
 <!--
 **the-rebooted-coder/the-rebooted-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
