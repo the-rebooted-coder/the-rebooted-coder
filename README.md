@@ -1,3 +1,4 @@
+<html>
 <p align="center">
   <img src="https://i.ibb.co/mXjqF2t/banner-1.png" title="Spandan Saxena Banner">
 </p>
@@ -14,6 +15,9 @@
 <p align="center">
   <img src="https://i.ibb.co/pzsxF3X/Red-and-White-Modern-Corporate-Sports-Youtube-Outro.png" title="Spandan Saxena Banner">
 </p>
+</html>
+###### [LinkedIn](https://www.linkedin.com/in/spandn)
+
 <!--
 **the-rebooted-coder/the-rebooted-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
