@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/FHLtyT7/banner.png" width="650" title="Spandan Saxena Banner">
+  <img src="https://i.ibb.co/mXjqF2t/banner-1.png" title="Spandan Saxena Banner">
 </p>
 <!--
 **the-rebooted-coder/the-rebooted-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
