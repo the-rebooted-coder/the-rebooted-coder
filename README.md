@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner of Spandan Saxena](https://i.ibb.co/FHLtyT7/banner.png)
 
 <!--
 **the-rebooted-coder/the-rebooted-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
