@@ -18,9 +18,9 @@
 </html>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/spandn">LinkedIn</a>
-  <a href="https://github.com/the-rebooted-coder">GitHub</a>
-   <a href="https://www.instagram.com/the_rebooted_coder">Instagram</a>
+<a href="https://www.linkedin.com/in/spandn">LinkedIn</a><br>
+  <a href="https://github.com/the-rebooted-coder">GitHub</a><br>
+   <a href="https://www.instagram.com/the_rebooted_coder">Instagram</a><br>
        <a href="https://www.spandansaxena.codes">Portfolio</a>
   </p>
 <!--
