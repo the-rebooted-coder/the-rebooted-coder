@@ -1,39 +1,25 @@
-<html>
-<p align="center">
-  <img src="https://i.ibb.co/mXjqF2t/banner-1.png" title="Spandan Saxena Banner">
-</p>
-<p align="center">
-  <b>Hi There 👋</b> </p> <br><br>
-  <p align="center">
-  <img src="https://i.ibb.co/cDxTpcn/infos-Spandansaxena.png" title="Spandan Saxena Info">
-</p>
-  <p align="center">
-  <img src="https://i.ibb.co/vLh9nx7/more-spandansaxena.png" title="Spandan Saxena moreInfo">
-</p>
-<br><br><br>
-<p align="center"><b>Some Quck Details Coming Stright Up!</b><br>
-<p align="center">
-  <img src="https://i.ibb.co/pzsxF3X/Red-and-White-Modern-Corporate-Sports-Youtube-Outro.png" title="Spandan Saxena Banner">
-</p>
-</html>
+# Hi There 👋
 
-<p align="center">
-<a href="https://www.linkedin.com/in/spandn">LinkedIn</a><br>
-  <a href="https://github.com/the-rebooted-coder">GitHub</a><br>
-   <a href="https://www.instagram.com/the_rebooted_coder">Instagram</a><br>
-       <a href="https://www.spandansaxena.codes">Portfolio</a>
-  </p>
-<!--
-**the-rebooted-coder/the-rebooted-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Spandan Saxena Profile](https://i.ibb.co/mXjqF2t/banner-1.png)
 
-Here are some ideas to get you started:
+### This is the GitHub Profile of **The** Spandan Saxena 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![username](https://media.giphy.com/media/LqsUJ3sF6hao0BDIHJ/giphy.gif)
+
+*Nahh!* There's nothing wrong with my Grammar, I have intentionally added ***THE*** there. Thanks to GitHub for adding readme to a profile👍
+
+That Just Perfectly Shows We HUMANS Need a Readme Too! 🤔
+
+Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
+
+    Enough Talk! 
+  
+> And Hey 👋 & Thanks to You! 😊 Not just only for visiting my profile
+> but to even **read** this *Readme* 📔
+
+You Can **Connect With ME** via any of the methods listed below:
+
+[My Portfolio ](https://spandansaxena.codes/) 📖
+[My LinkedIn](https://www.linkedin.com/in/spandn/) 🔗
+[My Facebook](https://www.facebook.com/spandn.saxena/) 😎
+[My GitHub Profile](https://github.com/the-rebooted-coder) 💻
