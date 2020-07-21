@@ -20,6 +20,9 @@ Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
 You Can **Connect With ME** via any of the methods listed below:
 
 [My Portfolio ](https://spandansaxena.codes/) 📖
+
 [My LinkedIn](https://www.linkedin.com/in/spandn/) 🔗
+
 [My Facebook](https://www.facebook.com/spandn.saxena/) 😎
+
 [My GitHub Profile](https://github.com/the-rebooted-coder) 💻
