@@ -14,7 +14,7 @@ Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
 
     Enough Talk! 
   
-> And Hey 👋 & Thanks to You! 😊 Not just only for visiting my profile
+> And Hey 👋 Special Thanks to You! 😊 Not just only for visiting my profile
 > but to even **read** this *Readme* 📔
 
 You Can **Connect With ME** via any of the methods listed below:
