@@ -17,6 +17,8 @@ Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
 > And Hey 👋 Special Thanks to You! 😊 Not just only for visiting my profile
 > but to even **read** this *Readme* 📔
 
+![Profile views](https://gpvc.arturio.dev/[the-rebooted-coder])
+
 [![the-rebooted-coders's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-rebooted-coder&show_icons=true)](https://github.com/the-rebooted-coder)
 
 You Can **Connect With ME** via any of the methods listed below:
