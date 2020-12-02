@@ -26,7 +26,7 @@ You Can **Connect With ME** via any of the methods listed below:
 
 [My Portfolio ](https://spandansaxena.codes/) <img src="https://media.giphy.com/media/3ov9k1BqJ2gb0DgmB2/giphy.gif" width="25px">
 
-[My LinkedIn](https://www.linkedin.com/in/spandn/) <img src="https://media.giphy.com/media/ijEiXYEo9DBxm/giphy.gif" width="25px">
+[My LinkedIn](https://www.linkedin.com/in/spandn/) <img src="https://media.giphy.com/media/cYk0Lr1kOI8vzLLRKa/giphy.gif" width="25px">
 
 [My Facebook](https://www.facebook.com/spandn.saxena/) <img src="https://media.giphy.com/media/ijEiXYEo9DBxm/giphy.gif" width="25px">
 
