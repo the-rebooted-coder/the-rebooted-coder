@@ -28,6 +28,6 @@ You Can **Connect With ME** via any of the methods listed below:
 
 [My LinkedIn](https://www.linkedin.com/in/spandn/) 🔗
 
-[My Facebook](https://www.facebook.com/spandn.saxena/) 😎
+[My Facebook](https://www.facebook.com/spandn.saxena/) <img src="https://media.giphy.com/media/ijEiXYEo9DBxm/giphy.gif" width="25px">
 
 [My GitHub Profile](https://github.com/the-rebooted-coder) 💻
