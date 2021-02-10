@@ -20,7 +20,7 @@ Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
 ![](https://komarev.com/ghpvc/?username=the-rebooted-coder)
 
 
-[![the-rebooted-coders's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-rebooted-coder&show_icons=true)](https://github.com/the-rebooted-coder)
+[![the-rebooted-coders's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-rebooted-coder&count_private=true&theme=vision-friendly-dark&show_icons=true)](https://github.com/the-rebooted-coder)
 
 You Can **Connect With ME** via any of the methods listed below:
 
