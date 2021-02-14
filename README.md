@@ -22,6 +22,8 @@ Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
 
 [![the-rebooted-coders's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-rebooted-coder&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/the-rebooted-coder)
 
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=the-rebooted-coder)](https://spandansaxena.codes/)
+
 You Can **Connect With ME** via any of the methods listed below:
 
 [My Portfolio ](https://spandansaxena.codes/) <img src="https://media.giphy.com/media/3ov9k1BqJ2gb0DgmB2/giphy.gif" width="30px">
