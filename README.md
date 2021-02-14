@@ -22,7 +22,7 @@ Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
 
 [![the-rebooted-coders's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-rebooted-coder&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/the-rebooted-coder)
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=the-rebooted-coder&theme=highcontrast)](https://spandansaxena.codes/)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=the-rebooted-coder&theme=highcontrast&hide_border=true)](https://spandansaxena.codes/)
 
 You Can **Connect With ME** via any of the methods listed below:
 
