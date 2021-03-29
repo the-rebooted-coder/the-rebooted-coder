@@ -6,7 +6,7 @@
 
 ![username](https://media.giphy.com/media/LqsUJ3sF6hao0BDIHJ/giphy.gif)
 
-*Nahh!* There's nothing wrong with my Grammar, I have intentionally added ***THE*** there. Thanks to GitHub for adding readme to a profile👍
+*Nahh!* There's nothing wrong with my Grammar, I have intentionally added ***THE*** there. Thanks to GitHub for adding a readme to a profile👍
 
 That Just Perfectly Shows We HUMANS Need a Readme Too! 🤔
 
