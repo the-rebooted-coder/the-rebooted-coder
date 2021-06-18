@@ -1,4 +1,4 @@
-# Namaste <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Namaste! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Spandan Saxena Profile](https://i.ibb.co/mXjqF2t/banner-1.png)
 
