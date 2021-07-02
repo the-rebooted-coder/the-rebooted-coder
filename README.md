@@ -10,7 +10,7 @@
 
 That Just Perfectly Shows We HUMANS Need a Readme Too! 🤔
 
-Okay, Maybe that didn't made you 😂 right? Go Ahead! Give it another shot!
+Okay, Maybe that didn't made you 😂 right?
 
     Enough of Talking! 
   
