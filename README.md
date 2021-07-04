@@ -12,7 +12,7 @@ That Just Perfectly Shows We HUMANS Need a Readme Too! 🤔
 
 Okay, Maybe that didn't made you 😂 right?
 
-    Enough of Talking! 
+    Enough of Reading ! 
   
 > And Yes 👋 Special Thanks to You! 😊 Not just only for visiting my profile
 > but to even **read** this *Readme* 📔
