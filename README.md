@@ -14,7 +14,7 @@ Okay, Maybe that didn't made you 😂 right?
 
     Enough of Reading ! 
   
-> And Yes 👋 Special Thanks to You! 😊 Not just only for visiting my profile
+> And Yes Special Thanks to You! 😊 Not just only for visiting my profile
 > but to even **read** this *Readme* 📔
 
 ![](https://komarev.com/ghpvc/?username=the-rebooted-coder)
