@@ -1,7 +1,5 @@
 # Namaste! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Spandan Saxena Profile](https://i.ibb.co/mXjqF2t/banner-1.png)
-
 ### This is the GitHub Profile of **The** Spandan Saxena 😃
 
 ![username](https://media.giphy.com/media/LqsUJ3sF6hao0BDIHJ/giphy.gif)
