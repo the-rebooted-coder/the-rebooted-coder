@@ -28,4 +28,4 @@ You Can **Connect With ME** via any of the methods listed below:
 
 [My Facebook](https://www.facebook.com/spandn.saxena/) <img src="https://media.giphy.com/media/ijEiXYEo9DBxm/giphy.gif" width="30px">
 
-[You are Currently Here](https://github.com/the-rebooted-coder) <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px">
+[You are Here](https://github.com/the-rebooted-coder) <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px">
