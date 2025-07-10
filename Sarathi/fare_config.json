@@ -1,6 +1,6 @@
 {
   "base_fare": 25.0,
-  "per_km_rate": 10.0,
+  "per_km_rate": 8.0,
   "per_minute_rate": 0.5,
   "waiting_rate": 1.0,
   "max_distance_km": 45,
