@@ -1,5 +1,5 @@
 {
-  "base_fare": 45.0,
+  "base_fare": 30.0,
   "per_km_rate": 10.0,
   "per_minute_rate": 0.5,
   "waiting_rate": 1.0,
